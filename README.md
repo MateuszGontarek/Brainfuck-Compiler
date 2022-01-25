@@ -1,6 +1,9 @@
-BrainFuck Compiler for now without nested loops
+BrainFuck Compiler 
+This code is for change brainfuck code to text
 Examples: 
   Hello World!:
     ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
+  Nie wiem:
+    ++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>++++++++.>+++++.----.<<++.>>++++++++++++++++++.--------------.----.++++++++.
    
   
