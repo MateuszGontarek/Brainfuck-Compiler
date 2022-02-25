@@ -9,7 +9,7 @@ class nie:
         while i < len(text):
             mark = text[i]
             if not mark in self.tab: mark = ""
-            elif mark == "+":   self.indeks[self.Indeks] += 1
+            elif mark == "+": self.indeks[self.Indeks] += 1
             elif mark == "-": self.indeks[self.Indeks] -= 1
             elif mark == ">": self.Indeks += 1
             elif mark == "<": self.Indeks -= 1
