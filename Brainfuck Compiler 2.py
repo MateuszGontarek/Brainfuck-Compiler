@@ -5,7 +5,7 @@ text = input()
 i = 0
 while i < len(text):
     mark = text[i]
-    if not mark in self.tab: mark = ""
+    if not mark in tab: mark = ""
     elif mark == "+": indeks[Indeks] += 1
     elif mark == "-": indeks[Indeks] -= 1
     elif mark == ">": Indeks += 1
